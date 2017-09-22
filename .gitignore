@@ -19,3 +19,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# contains mlab.com mongoDB username and password
+# how to extract to another file?
+server.js
